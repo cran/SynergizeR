@@ -1,0 +1,11 @@
+10c27ad478c99976c85aa154f98b98db *DESCRIPTION
+683a9907aee713aa1204f704aef1d41b *NAMESPACE
+dcf28a9c9f41992655e333368ecfaa90 *R/metamethods.r
+1549f76c65fd3f017c060e2f756b18ec *R/synergizer.r
+e2d3b44e5fbd1a86c33b65bd9a38794b *R/zzz.r
+96b106435c2cbcf65faeb670be0cef81 *man/available_authorities.Rd
+b4def71b727b62822151e0d69f7e6e36 *man/available_domains.Rd
+6ba041a82ff710fda87a10d86cda1167 *man/available_ranges.Rd
+501c033762ea125f8db416f370c71a9f *man/available_species.Rd
+7e38c2bdb4e547d68efd94a3a8fef895 *man/server_version.Rd
+012343b5f5d779ae055271a7e904fdc1 *man/synergizer.Rd
